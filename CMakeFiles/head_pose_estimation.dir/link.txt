@@ -1,0 +1,1 @@
+/usr/bin/g++   -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/head_pose_estimation.dir/CRForestEstimator.cpp.o CMakeFiles/head_pose_estimation.dir/CRTree.cpp.o CMakeFiles/head_pose_estimation.dir/main.cpp.o  -o head_pose_estimation  -lopencv_core -lopencv_highgui -lopencv_imgproc 
