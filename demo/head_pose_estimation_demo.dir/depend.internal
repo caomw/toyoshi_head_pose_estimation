@@ -6,6 +6,16 @@ head_pose_estimation_demo.dir/Users/masahiko/Programs/head_pose_estimation/CRFor
  /Users/masahiko/Programs/head_pose_estimation/CRForestEstimator.cpp
  /Users/masahiko/Programs/head_pose_estimation/CRForestEstimator.h
  /Users/masahiko/Programs/head_pose_estimation/CRTree.h
+ /usr/local/include/opencv2/core/core.hpp
+ /usr/local/include/opencv2/core/core_c.h
+ /usr/local/include/opencv2/core/mat.hpp
+ /usr/local/include/opencv2/core/operations.hpp
+ /usr/local/include/opencv2/core/types_c.h
+ /usr/local/include/opencv2/core/version.hpp
+ /usr/local/include/opencv2/highgui/highgui.hpp
+ /usr/local/include/opencv2/highgui/highgui_c.h
+ /usr/local/include/opencv2/imgproc/imgproc.hpp
+ /usr/local/include/opencv2/imgproc/types_c.h
 head_pose_estimation_demo.dir/Users/masahiko/Programs/head_pose_estimation/CRTree.cpp.o
  /Users/masahiko/Programs/head_pose_estimation/CRTree.cpp
  /Users/masahiko/Programs/head_pose_estimation/CRTree.h

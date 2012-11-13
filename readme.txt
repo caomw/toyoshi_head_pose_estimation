@@ -1,3 +1,5 @@
+//以下の規約に従ってNAISTの豊吉が編集したものです
+
 // Authors: Gabriele Fanelli, Thibaut Weise, Juergen Gall, BIWI, ETH Zurich
 // Email: fanelli@vision.ee.ethz.ch
 
