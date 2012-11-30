@@ -14,6 +14,7 @@
 #include "freeglut.h"
 
 
+
 namespace Mouse {
 	enum button { NONE, ROTATE, MOVEXY, MOVEZ, WHEELUP, WHEELDOWN };
 };
@@ -47,7 +48,7 @@ public:
 	gl_camera() :lastb(Mouse::NONE), lightdir(math_vector_3f(0.0f,0.0f,1.0f)),
 			 field_of_view(45.0f)
 	{
-		lightdir[0] = lightdir[1] = 0; lightdir[2] = 1;
+		lightdir[0] = lightdir[1] = 0; lightdir[2] = 1; lastmousex = 0; lastmousey = 0;
 	}
 
 	enum Mouse::button get_last_mouse_button() const { return lastb; }

@@ -29,7 +29,12 @@ class CRTree {
 
 public:
 
-	CRTree() {};
+	CRTree() {
+		leaf = NULL;
+		m_no_chans = NULL;
+		m_pheight = NULL;
+		m_pwidth = NULL;
+	};
 
 	~CRTree() { delete [] leaf; delete[] treetable; }
 

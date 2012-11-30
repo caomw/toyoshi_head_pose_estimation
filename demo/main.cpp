@@ -67,7 +67,7 @@ using namespace xn;
 using namespace std;
 using namespace cv;
 
-// Path to trees
+// Path to tree
 string g_treepath;
 // Number of trees
 int g_ntrees;
