@@ -6,8 +6,7 @@
 #include "CRForestEstimator.h"
 #include <vector>
 #include <iostream>
-#include <opencv2/highgui/highgui.hpp>
-#include <opencv2/imgproc/imgproc.hpp>
+#include "opencv2/opencv.hpp"
 
 using namespace std;
 using namespace cv;
@@ -93,10 +92,10 @@ void CRForestEstimator::estimate( const Mat & im3D,
 	Mat depthInt( rows+1, cols+1, CV_64FC1);
 	integral( channels[2], depthInt );
         
-        cv::namedWindow("test");
-        cv::imshow("test",depthInt);
-        cv::waitKey(0);
-        cv::destroyWindow("test");
+        //cv::namedWindow("test");
+        //cv::imshow("test",depthInt);
+        //cv::waitKey(0);
+        //cv::destroyWindow("test");
 
 	//feature channels vector, in our case it contains only the depth integral image, but it could have other channels (e.g., greyscale)
 	//特徴チャネル、今はdepthだけ　RGBとか追加するならここ！

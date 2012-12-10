@@ -18,6 +18,8 @@ bool CRTree::loadTree(const char* filename) {
 		return false;
 	}
 
+    
+    //確認用
 	success &= ( fread( &max_depth, sizeof(int), 1, fp) == 1);
 	success &= ( fread( &num_leaf, 	sizeof(int), 1, fp) == 1);
 	success &= ( fread( &m_pwidth,  sizeof(int), 1, fp) == 1);

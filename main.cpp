@@ -55,6 +55,7 @@
 #include <vector>
 #include <stdint.h>
 #include "CRForestEstimator.h"
+#include "opencv2/opencv.hpp"
 
 using namespace std;
 using namespace cv;
@@ -211,7 +212,7 @@ int main(int argc, char* argv[])
         
 	string depth_fname(argv[2]);
 
-        cout << depth_fname << endl;
+    cout << depth_fname << endl;
         
 	//read calibration file (should be in the same directory as the depth image!)
 	string cal_filename = depth_fname.substr(0,depth_fname.find_last_of("/")+1);
@@ -225,6 +226,10 @@ int main(int argc, char* argv[])
         
 	//read intrinsics only
 	float depth_intrinsic[9];	for(int i =0; i<9; ++i)	is >> depth_intrinsic[i];
+    
+    cout << "depth_intrinsic is..." << endl;
+    for(int i=0; i<9;++i)cout << i << ": " << depth_intrinsic[i] << endl;
+    
 	is.close();
 
 	Mat depthImg;
@@ -259,10 +264,10 @@ int main(int argc, char* argv[])
 		}
 	}
         
-        cv::namedWindow("test");
-        cv::imshow("test",img3D);
-        cv::waitKey(0);
-        cv::destroyWindow("test");
+        //namedWindow("test");
+        //imshow("test",img3D);
+        //waitKey(0);
+        //destroyWindow("test");
         
 	g_means.clear();
 	g_votes.clear();

@@ -1,0 +1,294 @@
+TheadPoseEstimation
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRForestEstimator.o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRTree.o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/main.o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/headPoseEstimation normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000509735F700000000000000AA
+t1352087031
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdint.h
+c00000000505E04C200000000000018EF
+t1348338882
+s6383
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000505E04C20000000000004523
+t1348338882
+s17699
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_calib3d.2.4.3.dylib
+c0000000050B8256B00000000000A3548
+t1354245483
+s669000
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_contrib.2.4.3.dylib
+c0000000050B8256B000000000010CFFC
+t1354245483
+s1101820
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_core.2.4.3.dylib
+c0000000050B8256B0000000000218C74
+t1354245483
+s2198644
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_features2d.2.4.3.dylib
+c0000000050B8256B00000000000B9F18
+t1354245483
+s761624
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_flann.2.4.3.dylib
+c0000000050B8256B0000000000084D98
+t1354245483
+s544152
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_gpu.2.4.3.dylib
+c0000000050B8256B0000000000028110
+t1354245483
+s164112
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_highgui.2.4.3.dylib
+c0000000050B8256A000000000014191C
+t1354245482
+s1317148
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_imgproc.2.4.3.dylib
+c0000000050B8256A000000000020E290
+t1354245482
+s2155152
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_legacy.2.4.3.dylib
+c0000000050B8256A0000000000115314
+t1354245482
+s1135380
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_ml.2.4.3.dylib
+c0000000050B8256A0000000000075410
+t1354245482
+s480272
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_nonfree.2.4.3.dylib
+c0000000050B8256A000000000001C6B0
+t1354245482
+s116400
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_objdetect.2.4.3.dylib
+c0000000050B8256A000000000008BBD8
+t1354245482
+s572376
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_photo.2.4.3.dylib
+c0000000050B8256A000000000001DC24
+t1354245482
+s121892
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_stitching.2.4.3.dylib
+c0000000050B8256A000000000008C92C
+t1354245482
+s575788
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_ts.2.4.3.dylib
+c0000000050B8256A00000000000A67D4
+t1354245482
+s681940
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_video.2.4.3.dylib
+c0000000050B8256A000000000003E450
+t1354245482
+s255056
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/../../../../../usr/local/Cellar/opencv/2.4.3/lib/libopencv_videostab.2.4.3.dylib
+c0000000050B8256A000000000003B090
+t1354245482
+s241808
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRForestEstimator.o
+t2
+s0
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRTree.o
+t2
+s0
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/headPoseEstimation.LinkFileList
+c0000000050BC9D370000000000000225
+t1354538295
+s549
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/headPoseEstimation
+t2
+s0
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h
+c0000000050BC447D00000000000006BA
+t1354515581
+s1722
+i"CRTree.h"
+i<stdio.h>
+i<vector>
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp
+c0000000050BC6FB80000000000002859
+t1354526648
+s10329
+i"stdafx.h"
+i<windows.h>
+i"CRForestEstimator.h"
+i<vector>
+i<iostream>
+i"opencv2/opencv.hpp"
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h
+c0000000050BC447D0000000000000584
+t1354515581
+s1412
+i"CRForest.h"
+i<fstream>
+i"opencv2/core/core.hpp"
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp
+c0000000050BC447D0000000000000777
+t1354515581
+s1911
+i<iostream>
+i<fstream>
+i<vector>
+i"CRTree.h"
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h
+c0000000050BC447D0000000000000AD8
+t1354515581
+s2776
+i"opencv2/core/core.hpp"
+i"opencv2/highgui/highgui.hpp"
+
+N/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp
+c0000000050BC93BC0000000000002636
+t1354535868
+s9782
+i<string>
+i<algorithm>
+i<iostream>
+i<vector>
+i<stdint.h>
+i"CRForestEstimator.h"
+i"opencv2/opencv.hpp"
+
+N/usr/local/include/opencv2/core/core.hpp
+c000000005089C351000000000002CBF3
+t1351205713
+s183283
+
+N/usr/local/include/opencv2/highgui/highgui.hpp
+c00000000507F376A00000000000023B4
+t1350514538
+s9140
+
+N/usr/local/include/opencv2/opencv.hpp
+c00000000501079620000000000000ABF
+t1343256930
+s2751
+
+CBuild AST from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp
+r0
+
+CBuild AST from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp
+r0
+
+CBuild AST from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb32450b7d46cb641^5fee63b7d46cb641^---0#1#0#--18"Check dependencies36"71B82108-3F71-426E-9EE1-1B8D8415399B-
+
+CCompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRForestEstimator.o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s376231095.393241
+e376231100.057701
+r1
+xCompileC
+xBuild/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRForestEstimator.o
+x/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+oIn file included from /usr/local/include/opencv2/core/core.hpp:49,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h:3,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:6,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp:6:
+o/usr/local/include/opencv2/core/types_c.h: In function 'int cvIplDepth(int)':
+o/usr/local/include/opencv2/core/types_c.h:807: warning: implicit conversion shortens 64-bit value into a 32-bit value
+oIn file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp:6:
+o/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h: In member function 'int CRForest::getSize() const':
+o/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:25: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp: In member function 'void CRForestEstimator::estimate(const cv::Mat&, std::vector<cv::Vec<float, 6>, std::allocator<cv::Vec<float, 6> > >&, std::vector<std::vector<Vote, std::allocator<Vote> >, std::allocator<std::vector<Vote, std::allocator<Vote> > > >&, std::vector<Vote, std::allocator<Vote> >&, int, float, float, float, float, bool, int)':
+o/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp:189: warning: unused variable 'best_dist'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp29cf64b7d46cb641^f9d70ebcd46cb641^-1890"cc1plus: warning: -Wuninitialized is not supported without -OIn file included from /usr/local/include/opencv2/core/core.hpp:49,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h:3,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:6,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp:6:/usr/local/include/opencv2/core/types_c.h: In function 'int cvIplDepth(int)':/usr/local/include/opencv2/core/types_c.h:807: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp:6:/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h: In member function 'int CRForest::getSize() const':/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:25: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp: In member function 'void CRForestEstimator::estimate(const cv::Mat&, std::vector<cv::Vec<float, 6>, std::allocator<cv::Vec<float, 6> > >&, std::vector<std::vector<Vote, std::allocator<Vote> >, std::allocator<std::vector<Vote, std::allocator<Vote> > > >&, std::vector<Vote, std::allocator<Vote> >&, int, float, float, float, float, bool, int)':/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp:189: warning: unused variable 'best_dist'4(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-376231095#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-376231096#661#118#6(36%IDEActivityLogHeaderInclusionMessage4@116"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp-376231096#18446744073709551615#0#-0#-3@110"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---4@114"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h-376231096#18446744073709551615#0#-0#-3@108"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h-376231096#18446744073709551615#0#-0#-3@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---4@103"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h-376231096#18446744073709551615#0#-0#-3@97"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---4@62"In file included from /usr/local/include/opencv2/core/core.hpp-376231096#18446744073709551615#0#-0#-3@56"file://localhost/usr/local/include/opencv2/core/core.hpp0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#---2@106"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/opencv2/core/types_c.h-376231096#18446744073709551615#0#-0#-3@57"file://localhost/usr/local/include/opencv2/core/types_c.h0000000000000000^806#18446744073709551615#806#18446744073709551615#18446744073709551615#0#---1#-3@57"file://localhost/usr/local/include/opencv2/core/types_c.h0000000000000000^806#18446744073709551615#806#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-376231097#1154#159#3(4@116"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp-376231097#18446744073709551615#0#-0#-3@110"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---4@114"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h-376231097#18446744073709551615#0#-0#-3@108"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---2@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h-376231097#18446744073709551615#0#-0#-3@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---1#-3@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@27"Unused variable 'best_dist'-376231098#1753#137#-1#-3@110"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp0000000000000000^188#18446744073709551615#188#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@110"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp0000000000000000^2379"CompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRForestEstimator.o CRForestEstimator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-generated-files.hmap -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-own-target-headers.hmap -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-all-target-headers.hmap -iquote /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-project-headers.hmap -iquote/usr/local/include -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/include -I/usr/local/incude -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/DerivedSources/x86_64 -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/DerivedSources -F/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug -c /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.cpp -o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRForestEstimator.o36"EF702B2C-7F5B-45BE-A3EF-A5C34A090E40-
+
+CCompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRTree.o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s376231095.393992
+e376231098.120343
+r1
+xCompileC
+xBuild/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRTree.o
+x/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+oIn file included from /usr/local/include/opencv2/core/core.hpp:49,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h:3,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp:4:
+o/usr/local/include/opencv2/core/types_c.h: In function 'int cvIplDepth(int)':
+o/usr/local/include/opencv2/core/types_c.h:807: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp51f864b7d46cb641^d90a22bad46cb641^-541"cc1plus: warning: -Wuninitialized is not supported without -OIn file included from /usr/local/include/opencv2/core/core.hpp:49,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h:3,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp:4:/usr/local/include/opencv2/core/types_c.h: In function 'int cvIplDepth(int)':/usr/local/include/opencv2/core/types_c.h:807: warning: implicit conversion shortens 64-bit value into a 32-bit value2(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-376231095#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-376231096#423#118#4(36%IDEActivityLogHeaderInclusionMessage4@105"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp-376231096#18446744073709551615#0#-0#-3@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---4@103"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h-376231096#18446744073709551615#0#-0#-3@97"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---4@62"In file included from /usr/local/include/opencv2/core/core.hpp-376231096#18446744073709551615#0#-0#-3@56"file://localhost/usr/local/include/opencv2/core/core.hpp0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#---2@106"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/opencv2/core/types_c.h-376231096#18446744073709551615#0#-0#-3@57"file://localhost/usr/local/include/opencv2/core/types_c.h0000000000000000^806#18446744073709551615#806#18446744073709551615#18446744073709551615#0#---1#-3@57"file://localhost/usr/local/include/opencv2/core/types_c.h0000000000000000^806#18446744073709551615#806#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--0#0#0#-19%DVTDocumentLocation5@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp0000000000000000^2335"CompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRTree.o CRTree.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-generated-files.hmap -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-own-target-headers.hmap -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-all-target-headers.hmap -iquote /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-project-headers.hmap -iquote/usr/local/include -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/include -I/usr/local/incude -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/DerivedSources/x86_64 -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/DerivedSources -F/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug -c /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.cpp -o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/CRTree.o36"AF7A1946-350C-4E33-9EA5-6E7007251509-
+
+CCompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/main.o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s376231098.127649
+e376231100.760720
+r1
+xCompileC
+xBuild/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/main.o
+x/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+oIn file included from /usr/local/include/opencv2/core/core.hpp:49,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h:3,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:6,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp:57:
+o/usr/local/include/opencv2/core/types_c.h: In function 'int cvIplDepth(int)':
+o/usr/local/include/opencv2/core/types_c.h:807: warning: implicit conversion shortens 64-bit value into a 32-bit value
+oIn file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,
+o                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp:57:
+o/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h: In member function 'int CRForest::getSize() const':
+o/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:25: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp92ce20bad46cb641^84d7c2bcd46cb641^-1289"cc1plus: warning: -Wuninitialized is not supported without -OIn file included from /usr/local/include/opencv2/core/core.hpp:49,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h:3,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:6,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp:57:/usr/local/include/opencv2/core/types_c.h: In function 'int cvIplDepth(int)':/usr/local/include/opencv2/core/types_c.h:807: warning: implicit conversion shortens 64-bit value into a 32-bit valueIn file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h:3,                 from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp:57:/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h: In member function 'int CRForest::getSize() const':/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h:25: warning: implicit conversion shortens 64-bit value into a 32-bit value3(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-376231098#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-376231099#649#118#6(36%IDEActivityLogHeaderInclusionMessage4@103"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp-376231099#18446744073709551615#0#-0#-3@97"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#---4@114"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h-376231099#18446744073709551615#0#-0#-3@108"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h-376231099#18446744073709551615#0#-0#-3@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---4@103"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h-376231099#18446744073709551615#0#-0#-3@97"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRTree.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---4@62"In file included from /usr/local/include/opencv2/core/core.hpp-376231099#18446744073709551615#0#-0#-3@56"file://localhost/usr/local/include/opencv2/core/core.hpp0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#---2@106"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/opencv2/core/types_c.h-376231099#18446744073709551615#0#-0#-3@57"file://localhost/usr/local/include/opencv2/core/types_c.h0000000000000000^806#18446744073709551615#806#18446744073709551615#18446744073709551615#0#---1#-3@57"file://localhost/usr/local/include/opencv2/core/types_c.h0000000000000000^806#18446744073709551615#806#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-376231099#1130#159#3(4@103"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp-376231099#18446744073709551615#0#-0#-3@97"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#---4@114"In file included from /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h-376231099#18446744073709551615#0#-0#-3@108"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForestEstimator.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---2@148"Implicit conversion shortens 64-bit value into a 32-bit value in /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h-376231099#18446744073709551615#0#-0#-3@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---1#-3@99"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/CRForest.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--0#0#0#-19%DVTDocumentLocation5@97"file://localhost/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp0000000000000000^2327"CompileC Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-generated-files.hmap -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-own-target-headers.hmap -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-all-target-headers.hmap -iquote /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/headPoseEstimation-project-headers.hmap -iquote/usr/local/include -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/include -I/usr/local/incude -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/DerivedSources/x86_64 -I/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/DerivedSources -F/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug -c /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/main.cpp -o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/main.o36"3DA208A4-3182-4FE3-A0A1-E8598DE398CF-
+
+CLd /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/headPoseEstimation normal x86_64
+s376231100.767623
+e376231100.916197
+r1
+xLd
+x/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/headPoseEstimation
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/headPoseEstimationd3a0c4bcd46cb641^959deabcd46cb641^---0#0#0#--1397"Ld Build/Products/Debug/headPoseEstimation normal x86_64    cd /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug -L/usr/local/lib -L/usr/local/Cellar/opencv/2.4.3/lib -L/usr/local/Cellar/opencv/2.4.2/lib -F/Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug -filelist /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Intermediates/headPoseEstimation.build/Debug/headPoseEstimation.build/Objects-normal/x86_64/headPoseEstimation.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -lopencv_calib3d.2.4.3 -lopencv_contrib.2.4.3 -lopencv_core.2.4.3 -lopencv_features2d.2.4.3 -lopencv_flann.2.4.3 -lopencv_gpu.2.4.3 -lopencv_highgui.2.4.3 -lopencv_imgproc.2.4.3 -lopencv_legacy.2.4.3 -lopencv_ml.2.4.3 -lopencv_nonfree.2.4.3 -lopencv_objdetect.2.4.3 -lopencv_photo.2.4.3 -lopencv_stitching.2.4.3 -lopencv_ts.2.4.3 -lopencv_video.2.4.3 -lopencv_videostab.2.4.3 -o /Users/masahiko/Programs/toyoshi_head_pose_estimation/headPoseEstimation/Build/Products/Debug/headPoseEstimation36"0A681B69-9FF8-423F-BB09-B8381C378690-
+
